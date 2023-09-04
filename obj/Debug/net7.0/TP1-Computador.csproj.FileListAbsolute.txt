@@ -1,0 +1,15 @@
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.csproj.AssemblyReference.cache
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.AssemblyInfoInputs.cache
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.AssemblyInfo.cs
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.csproj.CoreCompileInputs.cache
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\bin\Debug\net7.0\TP1-Computador.exe
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\bin\Debug\net7.0\TP1-Computador.deps.json
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\bin\Debug\net7.0\TP1-Computador.runtimeconfig.json
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\bin\Debug\net7.0\TP1-Computador.dll
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\bin\Debug\net7.0\TP1-Computador.pdb
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.dll
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\refint\TP1-Computador.dll
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.pdb
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\TP1-Computador.genruntimeconfig.cache
+D:\Faculdade\2° SEMESTRE\AEDS\TP1\Computador\TP1-Computador\obj\Debug\net7.0\ref\TP1-Computador.dll
