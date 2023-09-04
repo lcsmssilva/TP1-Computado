@@ -23,24 +23,27 @@ class Program
             if (P==1)
             {
                 int V = int.Parse(tres[2]);
-                while(I < N || V > 0)
-                {
-                    vetor[I] = V;
+
+                do {
+                    vetor[I-1] += V;
                     I++;
                     V--;
-                }
-            } else if (P==2)
+                } while(I <= N && V > 0);
+            } 
+            else if (P==2)
             {
                 int V = int.Parse(tres[2]);
-                while(I > 1 || V > 0)
-                {
+                
+                do {
                     vetor[I-1] = V;
                     I--;
                     V--;
-                }
-            } else if (P==3)
+
+                } while(I >= 1 && V > 0);
+            } 
+            else if (P == 3)
             {
-                Console.WriteLine(vetor[I-1]);
+                Console.WriteLine(vetor[I - 1]);
             }
         }
     }
